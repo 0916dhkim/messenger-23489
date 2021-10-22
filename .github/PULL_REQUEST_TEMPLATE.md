@@ -7,4 +7,4 @@ _Add description here._
 Please complete the following tasks before requesting code review.
 
 - [ ] Explain what you did in this PR.
-- [ ] Link the corresponding ticket to this PR.
+- [ ] Link the corresponding issue to this PR.
